@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manoharmgowda
-- 👀 I’m interested in Software Development
+- 👀 I’m looking to collaborate on AI and ML Team
 - Technology: SalesForce, Python, Apex, Lightning Web Components
-- 💞️ I’m looking to collaborate on AI and ML Team
+- 💞️ I’m interested in Software Development
 - 📫 How to reach me Contact Number:7406500427
 - mail ID: manoharmgowda007@gmail.com
 
